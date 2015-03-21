@@ -2,10 +2,6 @@
   "name": "crypto-js",
   "version": "3.1.2-6",
   "description": "Modularized port of googlecode project crypto-js.",
-  "author": {
-    "name": "Evan Vosberg",
-    "url": "http://github.com/evanvosberg"
-  },
   "homepage": "http://github.com/evanvosberg/crypto-js",
   "repository": {
     "type": "git",
